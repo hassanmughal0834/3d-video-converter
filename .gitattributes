@@ -1,0 +1,6 @@
+src/**/*.tsx linguist-detectable
+build/* linguist-vendored
+src/** linguist-detectable
+public/* linguist-vendored
+public/** linguist-vendored
+*.yaml linguist-detectable=false
